@@ -1,4 +1,4 @@
-package com.kishan.fingerprintanim;
+package com.kishan.fingerprint;
 
 import android.content.Context;
 import android.graphics.drawable.AnimatedVectorDrawable;

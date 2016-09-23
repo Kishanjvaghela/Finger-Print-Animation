@@ -19,8 +19,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:drawable="@drawable/fingerprint_scan">
 
-    <target
-        android:name="scan_clip"
-        android:animation="@anim/scan" />
+  <target
+      android:name="scan_clip"
+      android:animation="@anim/scan"/>
 
 </animated-vector>
