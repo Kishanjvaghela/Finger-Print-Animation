@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FingerPrintAnim</string>
+  <string name="btn_show">Show</string>
+  <string name="btn_scan">Scan</string>
+  <string name="btn_tick">Tick</string>
+  <string name="btn_cross">Cross</string>
 </resources>
